@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "coach": {
+        "id": 1,
+        "name": "test",
+        "is_online": false
+    },
+    "team": {
+        "id": 1,
+        "name": "test",
+        "age_group": {
+            "id": 1,
+            "name": "test"
+        },
+        "gender": {
+            "id": 1,
+            "name": "test"
+        },
+        "club": {
+            "id": 1,
+            "name": "test"
+        },
+        "team_rate": 100,
+        "coach_teams": [
+            {
+                "id": 1
+            }
+        ],
+        "player_teams": [
+            { "id": 1 }
+        ]
+    },
+    "position": {
+        "id": 1,
+        "name": "test"
+    },
+    "status": 1
+}

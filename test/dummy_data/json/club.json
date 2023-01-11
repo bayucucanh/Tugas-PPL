@@ -1,0 +1,21 @@
+{
+    "id": 1,
+    "name": "test",
+    "address": "test",
+    "city": {
+        "id": 1,
+        "name": "test"
+    },
+    "date_of_birth": "2022-10-01 10:00:00",
+    "province": {
+        "id": 1,
+        "name": "test"
+    },
+    "photo": "https://google.com/",
+    "rating": 5.0,
+    "total_players": 10,
+    "verified": {
+        "id": 1,
+        "name": "test"
+    }
+}

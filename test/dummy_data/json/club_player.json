@@ -1,0 +1,38 @@
+{
+    "id": 1,
+    "club": {
+        "id": 1,
+        "name": "test"
+    },
+    "player": {
+        "id": 1,
+        "name": "test"
+    },
+    "positions": [
+        {
+            "id": 1,
+            "club_player": {
+                "id": 1
+            },
+            "position": {
+                "id": 1,
+                "name": "test"
+            }
+        }
+    ],
+    "player_team": {
+        "id": 1,
+        "club_player": {
+            "id": 1
+        },
+        "position": {
+            "id": 1,
+            "name": "test"
+        },
+        "status": 1,
+        "team": {
+            "id": 1,
+            "name": "test"
+        }
+    }
+}

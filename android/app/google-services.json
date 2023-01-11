@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "143834371075",
+    "project_id": "pssi-bcfac",
+    "storage_bucket": "pssi-bcfac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143834371075:android:286e315813bfc463d42a36",
+        "android_client_info": {
+          "package_name": "com.kunci.mobile_pssi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "143834371075-810rpfnng6u3vcse9ad7tckro3u6f78f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kunci.mobile_pssi",
+            "certificate_hash": "40fb96a21bfa73ab5c544536c1267dc0a04a6e64"
+          }
+        },
+        {
+          "client_id": "143834371075-hf0buc0p76mh0r8u4ff48k8omprlj34h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kunci.mobile_pssi",
+            "certificate_hash": "f373b1e3543bd75396b26cba4dbae2d7f04f40cb"
+          }
+        },
+        {
+          "client_id": "143834371075-redp8fpkigpv3gn7j5uc14lqve3k02tg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kunci.mobile_pssi",
+            "certificate_hash": "ffa8300f750781c59c5fdd551f307ebb68af3d34"
+          }
+        },
+        {
+          "client_id": "143834371075-0m30rhbcou8nh3tu4psll81fgjsl4q92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz9J3bBdD7UkJpdgSQwAuDDNt17Kk_dCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "143834371075-0m30rhbcou8nh3tu4psll81fgjsl4q92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "143834371075-h8jqsht30aa13mtdct3tv0q5pp9tf4tn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kunci.mobilePssi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

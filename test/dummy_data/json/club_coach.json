@@ -1,0 +1,71 @@
+{
+    "id": 1,
+    "club": {
+      "id": 1,
+      "name": "test",
+      "address": null,
+      "date_of_birth": null,
+      "city": null,
+      "province": null,
+      "photo": null,
+      "verified": null,
+      "total_players": null,
+      "rating": null
+    },
+    "employee": {
+      "id": 1,
+      "is_online": false,
+      "user_id": null,
+      "user": {
+        "id": 1,
+        "is_online": false,
+        "roles": [],
+        "secure_documents": [],
+        "partner_documents": [],
+        "specialists": []
+      },
+      "name": "test",
+      "gender": {
+        "id": 1,
+        "name": "test"
+      },
+      "phone_number": null,
+      "address": null,
+      "date_of_birth": null,
+      "city": {
+        "id": 1,
+        "name": "test"
+      },
+      "province": {
+        "id": 1,
+        "name": "test"
+      },
+      "nationality": {
+        "id": 1,
+        "name": "test",
+        "code": "test"
+      },
+      "club_coach": {
+        "id": 1
+      },
+      "category": {
+        "id": 1,
+        "name": "test"
+      },
+      "photo": null,
+      "ktp": null,
+      "nik": null
+    },
+    "positions": [
+      {
+        "id": 1,
+        "club_coach": {
+          "id": 1,
+          "club": null,
+          "employee": null,
+          "positions": null
+        },
+        "position": {"id": 1, "name": "test"}
+      }
+    ]
+  }
